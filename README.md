@@ -1,1 +1,3 @@
-# Tables_of_number
+# Multiplication_table
+
+Language used: Java
